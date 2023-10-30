@@ -1,0 +1,8 @@
+{
+  "name": "comics",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite",
+  "id": "12ffb4c7"
+}
